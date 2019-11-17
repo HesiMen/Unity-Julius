@@ -20,8 +20,8 @@ public class Line : MonoBehaviour
     {
         line1Done = false;
         // Set the width of the Line Renderer
-        line.startWidth = 0.25f;
-        line.endWidth = 0.25f;
+      //  line.startWidth = 0.25f;
+      //  line.endWidth = 0.25f;
         // Set the number of vertex fo the Line Renderer
         line.positionCount = objects.Count;
 
